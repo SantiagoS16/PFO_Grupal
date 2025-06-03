@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components';
 import { BrowserRouter } from 'react-router-dom';
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
 import Container from './components/Container';
 
 function App() {
